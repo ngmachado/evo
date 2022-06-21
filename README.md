@@ -16,3 +16,6 @@ In this example Evo can max at paragon 5.
 ![](art/evo.gif)
 
 
+![](art/goopy.gif)
+
+
