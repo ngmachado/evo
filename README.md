@@ -15,6 +15,7 @@ In this example Evo can max at paragon 5.
 
 ![](art/evo.gif)
 
+Classic Goopy Growth
 
 ![](art/goopy.gif)
 
